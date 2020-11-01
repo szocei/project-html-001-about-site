@@ -161,6 +161,7 @@ img#modszerimg
     width: 27%;
     margin-left:4.5%;
     margin-top: 4.5%;
+    box-shadow: 0 0 15px;
     
 }
 @media only screen and (max-width : 600px)
@@ -171,4 +172,29 @@ img.galleryimg
     width: 90%;
     
 }
+}
+
+#eletrajz
+{
+    font-size: 14pt;
+}
+#szamozott
+{
+    font-size: 14pt;
+}
+
+#kontener
+{
+    width: 50%;
+    align-content: center;
+    margin-left: 25%;
+    border-style: solid;
+}
+
+.cimkek
+{
+    width: 70px;
+    margin-right: 30px;
+   font-size: 14pt;
+
 }
